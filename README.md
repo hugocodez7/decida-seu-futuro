@@ -24,4 +24,4 @@ Apenas precisa de ter o **Python 3.x** instalado no seu computador. Não são ne
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/decida-seu-futuro.git](https://github.com/SEU_USUARIO/decida-seu-futuro.git)
+   git clone https://github.com/hugocodez7/decida-seu-futuro.git
